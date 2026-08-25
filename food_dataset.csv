@@ -1,43 +1,47 @@
 Food,Category,Price,Calories,Protein,Type,DataSource
-Onion,Vegetable,38.36,45.0,1.0,Veg,Blinkit price + Nutrition-file macros
-Tomato,Vegetable,32.45,25.0,1.0,Veg,Blinkit price + Nutrition-file macros
-Potato,Vegetable,17.55,110.0,3.0,Veg,Blinkit price + Nutrition-file macros
-Carrot,Vegetable,16.09,30.0,1.0,Veg,Blinkit price + Nutrition-file macros
-Cucumber,Vegetable,22.27,10.0,1.0,Veg,Blinkit price + Nutrition-file macros
-Cabbage,Vegetable,17.27,25.0,1.0,Veg,Blinkit price + Nutrition-file macros
-Mushroom,Vegetable,38.91,20.0,3.0,Veg,Blinkit price + Nutrition-file macros
-Cauliflower,Vegetable,22.82,25.0,2.0,Veg,Blinkit price + Nutrition-file macros
-Lettuce,Vegetable,37.0,10.0,1.0,Veg,Blinkit price + Nutrition-file macros
-GreenBeans,Vegetable,19.55,20.0,1.0,Veg,Blinkit price + Nutrition-file macros
-Broccoli,Vegetable,60.0,45.0,4.0,Veg,Manual price (est.) + Nutrition-file macros
-Bell Pepper,Vegetable,50.0,25.0,1.0,Veg,Manual price (est.) + Nutrition-file macros
-Sweet Potato,Vegetable,55.0,100.0,2.0,Veg,Manual price (est.) + Nutrition-file macros
-Sweet Corn,Vegetable,40.0,90.0,4.0,Veg,Manual price (est.) + Nutrition-file macros
-Celery,Vegetable,45.0,15.0,0.0,Veg,Manual price (est.) + Nutrition-file macros
-Apple,Fruit,120.0,130.0,1.0,Veg,Manual price (est.) + Nutrition-file macros
-Banana,Fruit,40.0,110.0,1.0,Veg,Manual price (est.) + Nutrition-file macros
-Orange,Fruit,60.0,80.0,1.0,Veg,Manual price (est.) + Nutrition-file macros
-Watermelon,Fruit,35.0,80.0,1.0,Veg,Manual price (est.) + Nutrition-file macros
-Grapes,Fruit,90.0,90.0,0.0,Veg,Manual price (est.) + Nutrition-file macros
-Salmon,Protein,450.0,165.0,23.0,Non-Veg,Manual price (est.) + Nutrition-file macros
-Tilapia,Protein,220.0,110.0,22.0,Non-Veg,Manual price (est.) + Nutrition-file macros
-Shrimp,Protein,380.0,100.0,21.0,Non-Veg,Manual price (est.) + Nutrition-file macros
-Chicken Breast,Protein,314.73,165.0,31.0,Non-Veg,Blinkit price + Standard reference macros
-Fish (Basa),Protein,278.0,97.0,18.0,Non-Veg,Blinkit price + Standard reference macros
-Eggs (6 pcs),Protein,45.0,372.0,33.0,Non-Veg,Manual price (est.) + Standard reference macros
-Lentils (Dal),Protein,90.0,116.0,9.0,Veg,Fully manual (not in either dataset)
-Chickpeas,Protein,100.0,164.0,8.9,Veg,Fully manual (not in either dataset)
-Soybean Chunks,Protein,80.0,345.0,52.0,Veg,Fully manual (not in either dataset)
-Peanut Butter,Protein,180.0,588.0,25.0,Veg,Fully manual (not in either dataset)
-Almonds,Protein,450.0,579.0,21.2,Veg,Fully manual (not in either dataset)
-Wheat Flour (Atta),Grains,284.0,340.0,12.0,Veg,Blinkit price + Standard reference macros
-Rice,Grains,60.0,130.0,2.7,Veg,Fully manual (not in either dataset)
-Oats,Grains,120.0,389.0,16.9,Veg,Fully manual (not in either dataset)
-Bread,Grains,45.0,265.0,9.0,Veg,Fully manual (not in either dataset)
-Milk,Dairy,27.0,42.0,3.4,Veg,Blinkit price + Standard reference macros
-Paneer,Dairy,90.0,265.0,18.3,Veg,Fully manual (not in either dataset)
-Yogurt (Curd),Dairy,40.0,60.0,3.5,Veg,Fully manual (not in either dataset)
-Butter,Dairy,55.0,717.0,0.9,Veg,Fully manual (not in either dataset)
-Cooking Oil,Other,321.7,884.0,0.0,Veg,Blinkit price + Standard reference macros
-Tea,Other,397.64,1.0,0.0,Veg,Blinkit price + Standard reference macros
-Sugar,Other,45.0,387.0,0.0,Veg,Fully manual (not in either dataset)
+Apple,Fruit,136.68,52.0,0.3,Veg,Retail
+Arhar,Protein,101.91,343.0,21.7,Veg,Retail
+Atta,Grains,29.91,340.0,12.0,Veg,Retail
+Bajra,Grains,24.58,361.0,11.6,Veg,Retail
+Banana,Fruit,43.46,89.0,1.1,Veg,Retail
+Besan,Protein,81.78,387.0,22.4,Veg,Retail
+Biscuit,Other,8.3,450.0,6.0,Veg,Retail
+BlackPepper,Other,613.63,251.0,10.4,Veg,Retail
+Bread,Grains,28.87,265.0,9.0,Veg,Retail
+Brinjal,Vegetable,28.27,25.0,1.0,Veg,Retail
+Butter,Dairy,45.43,717.0,0.9,Veg,Retail
+Chicken,Protein,177.31,239.0,27.3,Non-Veg,Retail
+Coconut,Fruit,103.82,354.0,3.3,Veg,Retail
+CoconutOil,Other,275.06,862.0,0.0,Veg,Retail
+Coffee,Other,1068.32,1.0,0.1,Veg,Retail
+Coriander,Other,24.12,298.0,12.4,Veg,Retail
+CumminSeed,Other,221.48,375.0,17.8,Veg,Retail
+Eggs,Protein,61.49,155.0,13.0,Non-Veg,Retail
+Fish,Protein,308.95,206.0,22.0,Non-Veg,Retail
+Ghee,Dairy,521.44,900.0,0.0,Veg,Retail
+GingellyOil,Other,217.85,884.0,0.0,Veg,Retail
+Gram,Protein,69.2,360.0,19.0,Veg,Retail
+GroundnutOil,Other,169.29,884.0,0.0,Veg,Retail
+Gur,Other,47.13,383.0,0.4,Veg,Retail
+Jowar,Grains,32.44,349.0,10.4,Veg,Retail
+Maida,Grains,32.07,364.0,10.0,Veg,Retail
+Maize,Grains,25.23,365.0,9.4,Veg,Retail
+Masur,Protein,75.29,343.0,25.0,Veg,Retail
+Meat,Protein,618.36,250.0,26.0,Non-Veg,Retail
+Milk,Dairy,49.57,60.0,3.2,Veg,Retail
+Moong,Protein,103.73,347.0,24.0,Veg,Retail
+MustardOil,Other,146.46,884.0,0.0,Veg,Retail
+Onion,Vegetable,44.77,40.0,1.1,Veg,Retail
+Potato,Vegetable,20.43,87.0,1.9,Veg,Retail
+Ragi,Grains,38.54,328.0,7.3,Veg,Retail
+RedChillies,Other,28.13,246.0,12.0,Veg,Retail
+Rice,Grains,49.52,130.0,2.7,Veg,Retail
+Salt,Other,14.87,0.0,0.0,Veg,Retail
+Sugar,Other,37.54,387.0,0.0,Veg,Retail
+Suji,Grains,38.33,360.0,12.0,Veg,Retail
+Tea,Other,189.49,1.0,0.0,Veg,Retail
+Tomato,Vegetable,18.93,22.0,0.9,Veg,Retail
+Turmeric,Other,22.29,349.0,7.8,Veg,Retail
+Urad,Protein,107.71,341.0,25.2,Veg,Retail
+Vanaspati,Other,103.32,884.0,0.0,Veg,Retail
+Wheat,Grains,28.56,340.0,12.0,Veg,Retail
